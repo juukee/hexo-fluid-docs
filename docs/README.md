@@ -1,10 +1,12 @@
 ---
+heroText: Fluid
+metaTitle: Hexo Fluid 用户手册
 meta:
   - name: keywords
-    content:  Fluid是基于Hexo的一款 Material Design 风格的主题,fluid,fluid主题,fluid文档,hexo主题,hexo主题文档,fluid中文网,fluid中文文档,fulid,hexo主题,fluid文档,hexo主题文档,fluid中文网,fluid中文文档,fluid-hexo主题-基于fluid开发的hexo主题-fluid中文-fluid文档-fluid中文文档
+    content: hexo,theme,fluid,hexo主题,fluid文档,用户文档,博客,文档
 home: true
 heroImage: /fluid_hexo.png
-actionText: 使用指南
+actionText: 开始使用
 actionLink: /guide/
 features:
 - title: 简洁至上

@@ -1,10 +1,10 @@
 ---
-metaTitle: 贡献开发-fluid-hexo主题-基于fluid开发的hexo主题-fluid中文-fluid文档-fluid中文文档
+metaTitle: 贡献开发 | Hexo Fluid
 meta:
   - name: description
-    content: Fluid是基于Hexo的一款 Material Design 风格的主题,fluid,fluid主题,fluid文档,hexo主题,hexo主题文档,fluid中文网,fluid中文文档,
+    content: Fluid 是一款 Material-Design 风格的 Hexo 博客主题。Fluid is an elegant Material-Design theme for Hexo. https://github.com/fluid-dev/hexo-theme-fluid
   - name: keywords
-    content: fulid,hexo主题,fluid文档,hexo主题文档,fluid中文网,fluid中文文档
+    content: hexo,theme,fluid,hexo主题,fluid文档,用户文档,博客,文档
 ---
 
 # 贡献开发
@@ -26,4 +26,6 @@ meta:
 
 [![contributors](https://opencollective.com/hexo-theme-fluid/contributors.svg?width=890&button=false)](https://github.com/fluid-dev/hexo-theme-fluid/graphs/contributors)
 
-非 PR 贡献：@zhugaoqi [@julydate](https://github.com/julydate)
+英文文档翻译：[@EatRice](https://eatrice.top/) [@橙子杀手](https://ruru.eatrice.top)
+
+其他贡献：[@zhugaoqi](https://github.com/zhugaoqi) [@julydate](https://github.com/julydate)
